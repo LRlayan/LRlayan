@@ -1,8 +1,9 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Ramesh Layan</h1>
+<img src = "" alt = "my photo" tittle = "ramesh">
 <h3 align="center">A passionate Fullstack developer from Sri lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lrlayan&label=Profile%20views&color=0e75b6&style=flat" alt="lrlayan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lrlayan&label=Profile%20views&color=0e75b6&style=flat" alt="profile View" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lrlayan" alt="lrlayan" /></a> </p>
 
