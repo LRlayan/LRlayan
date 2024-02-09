@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Ramesh Layan</h1>
+<h1 align="center"> 👋 I'm Ramesh Layan</h1>
 <img src = "https://github.com/LRlayan/LRlayan/assets/139765978/6a930859-bd03-4000-91bb-856e7ba963f1">
 <h3 align="center">A passionate Fullstack developer from Sri lanka</h3>
 
