@@ -142,7 +142,9 @@
 
 ##
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lrlayan&show_icons=true&locale=en&layout=compact" alt="lrlayan" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrlayan&theme=gotham&layout=compact" width="50%"/> 
+</p>
 
 <p align="center">
     <a href="https://github.com/lrlayan?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=lrlayan&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"    width="48%" alt="@lrlayan's github-readme-stats"/></a>
