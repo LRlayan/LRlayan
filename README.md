@@ -7,14 +7,34 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lrlayan" alt="lrlayan" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ramesh-layan-522618212?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bx4ylaoi4rsaagj35s%2bfp2g%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ramesh-layan-522618212?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bx4ylaoi4rsaagj35s%2bfp2g%3d%3d" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ramesh.layan.7?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ramesh.layan.7?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://discord.gg/ramesh0310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ramesh0310" height="30" width="40" /></a>
-<a href="https://instagram.com/ramesh layan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramesh layan" height="30" width="40" /></a>
-<a href="https://youtube.com/@codecasters-et1bl?si=tY1iYOS-XFfgh61J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tfk4mlr3mjgz5ozqio92-w" height="30" width="40" /></a>
+## Contact With Me
+<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="80">
+      <a href="https://linkedin.com/in/https://www.linkedin.com/in/ramesh-layan-522618212?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bx4ylaoi4rsaagj35s%2bfp2g%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ramesh-layan-522618212?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bx4ylaoi4rsaagj35s%2bfp2g%3d%3d" height="30" width="40" /></a>
+      <br>Linkedin
+    </td>
+    <td align="center" width="80">
+      <a href="https://fb.com/https://www.facebook.com/ramesh.layan.7?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ramesh.layan.7?mibextid=zbwkwl" height="30" width="40" /></a>
+      <br>Facebook
+    </td>
+    <td align="center" width="80">
+      <a href="https://discord.gg/ramesh0310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ramesh0310" height="30" width="40" /></a>
+      <br>Discord
+    </td>
+    <td align="center" width="80">
+      <a href="https://instagram.com/ramesh layan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramesh layan" height="30" width="40" /></a>
+      <br>Instagram
+    </td>
+    <td align="center" width="80">
+      <a href="https://youtube.com/@codecasters-et1bl?si=tY1iYOS-XFfgh61J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tfk4mlr3mjgz5ozqio92-w" height="30" width="40" /></a>
+      <br>Code Casters
+    </td>
+  </tr>
+</table>
 </p>
+
 
 ## 🛠️ Skills
 <p align="center">
