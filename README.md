@@ -1,5 +1,8 @@
 ### Hi there 👋
 <h1 align="center"> 👋 I'm Ramesh Layan</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/animation.svg" alt="animation" />
+</div>
 <img src = "https://github.com/LRlayan/LRlayan/assets/139765978/6a930859-bd03-4000-91bb-856e7ba963f1">
 <h3 align="center">A passionate Fullstack developer from Sri lanka</h3>
 
