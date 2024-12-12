@@ -142,9 +142,7 @@
 
 ##
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacredAST&theme=gotham&layout=compact" width="50%"/> 
-</p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lrlayan&show_icons=true&locale=en&layout=compact" alt="lrlayan" /></p>
 
 <p align="center">
     <a href="https://github.com/sacredAST?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=sacredAST&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"    width="48%" alt="@sacredAST's github-readme-stats"/></a>
