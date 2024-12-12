@@ -44,6 +44,10 @@
       <img src="https://skillicons.dev/icons?i=jquery" width="43" height="43" alt="jQuery" />
       <br>jQuery
     </td>
+    <td align="center" width="80">
+      <img src="[https://skillicons.dev/icons?i=jquery](https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg)" width="43" height="43" alt="linux" />
+      <br>linux
+    </td>
   </tr>
   <tr>
     <td align="center" width="80">
