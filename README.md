@@ -142,11 +142,11 @@
 
 ##
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lrlayan&show_icons=true&locale=en&layout=compact" alt="lrlayan" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lrlayan&show_icons=true&locale=en&layout=compact" alt="lrlayan" /></p>
 
 <p align="center">
-    <a href="https://github.com/sacredAST?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=sacredAST&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"    width="48%" alt="@sacredAST's github-readme-stats"/></a>
-    <a href="https://github.com/sacredAST?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=sacredAST&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+    <a href="https://github.com/lrlayan?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=lrlayan&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"    width="48%" alt="@lrlayan's github-readme-stats"/></a>
+    <a href="https://github.com/lrlayan?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=lrlayan&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
 <p align="center">
