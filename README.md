@@ -1,7 +1,7 @@
 ### Hi there 👋
-<h1 align="center"> 👋 I'm Ramesh Layan</h1>
-<img src = "https://github.com/LRlayan/LRlayan/assets/139765978/6a930859-bd03-4000-91bb-856e7ba963f1">
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=57&center=true&vCenter=true&width=1200&height=120&lines=Hi-there+👋+I-'-m+Ramesh+Layan;A-passionate+Full-Stack+Developer+from+Sri-lanka;">
+
+<img src = "https://github.com/LRlayan/LRlayan/assets/139765978/6a930859-bd03-4000-91bb-856e7ba963f1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lrlayan&label=Profile%20views&color=0e75b6&style=flat" alt="profile View" /> </p>
 
