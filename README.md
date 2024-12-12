@@ -48,8 +48,28 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="43" height="43" alt="linux" />
       <br>linux
     </td>
+    <td align="center" width="80">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="43" height="43" alt="figma" />
+      <br>figma
+    </td>
+    <td align="center" width="80">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" width="43" height="43" alt="Maven" />
+      <br>Maven
+    </td>
+    <td align="center" width="80">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" width="43" height="43" alt="Gradle" />
+      <br>Geadle
+    </td>
   </tr>
   <tr>
+    <td align="center" width="80">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring" width="45" height="55" />
+      <br>Spring
+    </td>
+    <td align="center" width="80">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" alt="Hibernate" width="45" height="55" />
+      <br>Hibernate
+    </td>
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" height="55" />
       <br>TypeScript
@@ -74,8 +94,28 @@
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="55" />
       <br>Python
     </td>
+    <td align="center" width="80">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="Aurdino" width="45" height="55" />
+      <br>Aurdino
+    </td>
+    <td align="center" width="80">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VsCode" width="45" height="55" />
+      <br>VSCode
+    </td>
   </tr>
   <tr>
+    <td align="center" width="80">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="43" height="43" alt="Intellij" />
+      <br>Intellij
+    </td>
+    <td align="center" width="80">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WebStorm-Dark.svg" width="43" height="43" alt="Webstrome" />
+      <br>Webstrome
+    </td>
+     <td align="center" width="80">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="43" height="43" alt="Postman" />
+      <br>Postman
+    </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=nodejs" width="43" height="43" alt="Node.js" />
       <br>Node.js
