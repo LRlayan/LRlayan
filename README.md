@@ -98,6 +98,10 @@
       <br>React
     </td>
     <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="45" height="55" />
+      <br>Redux
+    </td>
+    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=vue" width="43" height="43" alt="Vue" />
       <br>Vue
     </td>
@@ -140,8 +144,20 @@
       <br>Node.js
     </td>
     <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=express" width="43" height="43" alt="Express" />
+      <br>Express.js
+    </td>
+    <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="55" />
       <br>MySQL
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="43" height="43" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="43" height="43" alt="Docker" />
+      <br>Docker
     </td>
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" height="55" />
