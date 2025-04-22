@@ -163,6 +163,8 @@
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" height="55" />
       <br>Java
     </td>
+  </tr>
+  <tr>
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" height="55" />
       <br>GitHub
