@@ -79,6 +79,10 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" width="43" height="43" alt="Gradle" />
       <br>Geadle
     </td>
+    <td align="center" width="80">
+      <img src="https://img.shields.io/badge/ChatGPT-yellow" width="43" height="43" alt="ChatGPT" />
+      <br>ChatGPT
+    </td>
   </tr>
   <tr>
     <td align="center" width="80">
@@ -166,10 +170,6 @@
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" height="55" />
       <br>GitHub
-    </td>
-    <td align="center" width="80">
-      <img src="https://img.shields.io/badge/ChatGPT-yellow" width="43" height="43" alt="ChatGPT" />
-      <br>ChatGPT
     </td>
   </tr>
 </table>
