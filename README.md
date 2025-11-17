@@ -77,7 +77,7 @@
     </td>
     <td align="center" width="80">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" width="43" height="43" alt="Gradle" />
-      <br>Geadle
+      <br>Gradle
     </td>
   </tr>
   <tr>
@@ -96,6 +96,10 @@
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="55" />
       <br>React
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="55" />
+      <br>React Native
     </td>
     <td align="center" width="80">
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="45" height="55" />
